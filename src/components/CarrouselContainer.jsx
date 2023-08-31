@@ -12,9 +12,9 @@ export const CarrouselContainer = () => {
         <Carrousel
           columNumber={8}
           id={1}
-          url1={"./src/assets/SLIDE 02/Recurso 14.jpg"}
-          url2={"./src/assets/SLIDE 02/Recurso 15.jpg"}
-          url3={"./src/assets/SLIDE 02/Recurso 16.jpg"}
+          url1={"/assets/SLIDE 02/Recurso 14.jpg"}
+          url2={"/assets/SLIDE 02/Recurso 15.jpg"}
+          url3={"/assets/SLIDE 02/Recurso 16.jpg"}
         />
         <div className="col-8 text-center mt-3">
           <h2>Tonos de la tierra</h2>

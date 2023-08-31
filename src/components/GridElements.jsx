@@ -7,19 +7,19 @@ export const GridElements = () => {
       <div className="background background--gridElement" aria-label="hidden"></div>
       <div className="row ">
         <div className="col-lg-6 ">
-          <img className="w-100" src="./src/assets/Recurso 20.jpg" alt="" />
+          <img className="w-100" src="/assets/Recurso 20.jpg" alt="" />
           <div className="d-flex ">
             <h3 className="vertical-text">Look camel</h3>
             <div>
-              <img className="w-100 mt-4" src="./src/assets/Recurso 24.jpg" alt="" />
-              <img className="w-100 mt-4" src="./src/assets/Recurso 23.jpg" alt="" />
+              <img className="w-100 mt-4" src="/assets/Recurso 24.jpg" alt="" />
+              <img className="w-100 mt-4" src="/assets/Recurso 23.jpg" alt="" />
             </div>
           </div>
         </div>
         <div className="col-lg-6">
           <div className="row">
             <div className="col-lg-12">
-              <img className="w-100" src="./src/assets/Recurso 22.jpg" alt="" />
+              <img className="w-100" src="/assets/Recurso 22.jpg" alt="" />
             </div>
             <div className="col mt-5">
               <div className="px-4">

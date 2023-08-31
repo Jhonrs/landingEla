@@ -8,7 +8,7 @@ export const ArticleCard = () => {
       
         <div className="row g-0 background background--articleCard">
           <div className="col-md-5">
-            <img className="w-100" src="./src/assets/Recurso 2.jpg" alt="" />
+            <img className="w-100" src="/assets/Recurso 2.jpg" alt="" />
           </div>
           <div className="col-md-7 my-auto ">
             <div className="p-5">

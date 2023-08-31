@@ -10,7 +10,7 @@ export const ThumbnailGallery = () => {
             <div className="col-lg-4 d-flex flex-column align-items-center">
               <img
                 className="my-2 w-100"
-                src="./src/assets/Recurso 17.jpg"
+                src="/assets/Recurso 17.jpg"
                 alt=""
               />
               <Button label={"Comprar ahora"} />
@@ -18,7 +18,7 @@ export const ThumbnailGallery = () => {
             <div className="col-lg-4 d-flex flex-column align-items-center">
               <img
                 className="my-2 w-100"
-                src="./src/assets/Recurso 18.jpg"
+                src="/assets/Recurso 18.jpg"
                 alt=""
               />
               <Button label={"Comprar ahora"} />
@@ -26,7 +26,7 @@ export const ThumbnailGallery = () => {
             <div className="col-lg-4 d-flex flex-column align-items-center">
               <img
                 className="my-2 w-100"
-                src="./src/assets/Recurso 19.jpg"
+                src="/assets/Recurso 19.jpg"
                 alt=""
               />
               <Button label={"Comprar ahora"} />

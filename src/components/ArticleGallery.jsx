@@ -24,14 +24,14 @@ export const ArticleGallery = () => {
               <div className="col">
                 <img
                   className="w-100"
-                  src="./src/assets/Recurso 11.jpg"
+                  src="/assets/Recurso 11.jpg"
                   alt=""
                 />
               </div>
               <div className="col">
                 <img
                   className="my-2 w-100"
-                  src="./src/assets/Recurso 12.jpg"
+                  src="/assets/Recurso 12.jpg"
                   alt=""
                 />
               </div>
@@ -39,7 +39,7 @@ export const ArticleGallery = () => {
               <div className="col ">
                 <img
                   className="my-2 w-100"
-                  src="./src/assets/Recurso 13.jpg"
+                  src="/assets/Recurso 13.jpg"
                   alt=""
                 />
               </div>

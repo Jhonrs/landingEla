@@ -9,17 +9,17 @@ export const ContainerGallery = () => {
         <div className="col-4 d-flex flex-column-reverse">
           <OverlaysCard
             classStyle={"mt-4"}
-            url={"./src/assets/Recurso 3.jpg"}
+            url={"/assets/Recurso 3.jpg"}
           />
           <OverlaysCard classStyle={""}
-          url={"./src/assets/Recurso 4.jpg"} />
+          url={"/assets/Recurso 4.jpg"} />
         </div>
         <Carrousel
           columNumber={7}
           id={2}
-          url1={"./src/assets/SLIDE 01/Recurso 5.jpg"}
-          url2={"./src/assets/SLIDE 01/Recurso 6.jpg"}
-          url3={"./src/assets/SLIDE 01/Recurso 7.jpg"}
+          url1={"/assets/SLIDE 01/Recurso 5.jpg"}
+          url2={"/assets/SLIDE 01/Recurso 6.jpg"}
+          url3={"/assets/SLIDE 01/Recurso 7.jpg"}
         />
       </div>
     </article>
