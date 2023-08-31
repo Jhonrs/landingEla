@@ -14,7 +14,7 @@ function App() {
 
   return (
     <>
-      <Container url={"/assets/recurso 1.jpg"}/>
+      <Container url={"/assets/Recurso-1.jpg"}/>
       <ArticleCard/>
       <ContainerGallery/>
       <GalleryContainer/>

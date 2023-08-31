@@ -6,7 +6,7 @@ export const ContainerGallery = () => {
   return (
     <article className="container my-5 pt-5">
       <div className="row justify-content-center">
-        <div className="col-4 d-flex flex-column-reverse">
+        <div className="col-lg-4 d-flex mb-lg-0 mb-4 flex-column-reverse">
           <OverlaysCard
             classStyle={"mt-4"}
             url={"/assets/Recurso 3.jpg"}
